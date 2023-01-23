@@ -9,7 +9,8 @@
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 text-gray-900">
                 
-                    <h1>Welcome! Thank you for logging in {{Auth::user()->name}}</h1>
+                
+
                 </div>
             </div>
         </div>
